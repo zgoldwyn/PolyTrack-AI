@@ -1,0 +1,7 @@
+opencv-python
+numpy
+gymnasium
+mss
+pynput
+stable-baselines3
+tensorboard
